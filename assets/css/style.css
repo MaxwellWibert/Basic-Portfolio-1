@@ -1,0 +1,36 @@
+nav {
+	background-color: #4aaaa5;
+}
+
+/* ../ will go upward in the directory */
+body {
+	background-image: url(../images/naturalblack.png);
+	width: 960px;
+}
+
+button {
+	float:right;
+}
+
+section {
+	color: #4aaaa5;
+	float:left;
+	width: 650px;
+	background-color: #ffffff;
+	margin-top: 20px;
+}
+
+aside {
+	color: #4aaaa5;
+	float:right;
+	width: 270px;
+	background-color: #ffffff;
+	margin-top: 20px;
+}
+
+footer {
+	text-align: center;
+	background-color: #666666;
+	clear: both;
+	padding: 10px 10px 10px 10px;
+}
